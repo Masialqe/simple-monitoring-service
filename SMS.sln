@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS.Tests", "SMS.Tests\SMS.Tests.csproj", "{51D5479D-BEFA-414A-BCF4-A017AAFE2CDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.App", "SMS.App\SMS.App.csproj", "{9FE35C76-74AC-45E0-ACEB-70E9F691192E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{51D5479D-BEFA-414A-BCF4-A017AAFE2CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51D5479D-BEFA-414A-BCF4-A017AAFE2CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51D5479D-BEFA-414A-BCF4-A017AAFE2CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE35C76-74AC-45E0-ACEB-70E9F691192E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE35C76-74AC-45E0-ACEB-70E9F691192E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE35C76-74AC-45E0-ACEB-70E9F691192E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE35C76-74AC-45E0-ACEB-70E9F691192E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
