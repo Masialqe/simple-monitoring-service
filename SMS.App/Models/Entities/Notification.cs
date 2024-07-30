@@ -12,7 +12,7 @@
         public string Message { get; set; } = string.Empty;
     }
 
-    public static class NotificationBuilder
+    public static class NotificationExtensions
     {
         public static Notification SetMessage(this Notification notification,string message)
         {

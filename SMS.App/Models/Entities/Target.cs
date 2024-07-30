@@ -5,11 +5,6 @@ namespace SMS.App.Models.Entities
     public record Target
     {
         /// <summary>
-        /// Unique Id.
-        /// </summary>
-        //public Guid Id { get; set; } = Guid.NewGuid();
-
-        /// <summary>
         /// Service name.
         /// </summary>
         public string Name { get; set; } = string.Empty;

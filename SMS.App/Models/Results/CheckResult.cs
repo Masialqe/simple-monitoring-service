@@ -14,7 +14,7 @@ namespace SMS.App.Models.Results
         }
     };
 
-    public static class ChechResultBuilder
+    public static class ChechResultExtensions
     {
         public static CheckResult SetTarget(this CheckResult result, Target target)
         {
